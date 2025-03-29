@@ -29,7 +29,7 @@ Please cite the following paper as the references if you use our codes.
 
 ```
 @article{BGC2025wu,
-  author={Wu, Jiahao and Lu, Ning and Dai, Zeyu and Wang, Kun and Wenqi, Fan and Liu, Shengcai and Li, Qing and Tang, Ke},
+  author={Wu, Jiahao and Lu, Ning and Dai, Zeyu and Wang, Kun and Fan, Wenqi and Liu, Shengcai and Li, Qing and Tang, Ke},
   journal={ICDE 2025}, 
   title={Backdoor Graph Condensation}, 
   year={2025}}
